@@ -1,0 +1,9 @@
+
+
+export default {
+  clicks_one: '{{count}} клик',     // 1, 21, 31...
+  clicks_few: '{{count}} клика',    // 2, 3, 4, 22...
+  clicks_many: '{{count}} кликов',  // 0, 5-20, 25-30...
+  reset: 'Сбросить',
+};
+  
